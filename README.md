@@ -14,7 +14,6 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreN771&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreN771&layout=compact&theme=tokyonight)
 
 ---
@@ -27,6 +26,7 @@
 ## Contato ✉️ 
 Me chama pra trocar ideia, colaborar em
 projetos ou só bater um papo:
+
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_blacck)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)]AlexandreN771@gmail.com
 
