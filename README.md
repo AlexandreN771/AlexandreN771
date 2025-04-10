@@ -1,5 +1,4 @@
 ## Oi, eu sou o Alexandre!👋
-📍De Salvador pra Brasília
 - Sou desenvolvedor front-end em formação, apaixonado por design gráfico, criatividade e experiências digitais.  
 - Atualmente aprendendo HTML, CSS, JavaScript e React.  
 - Busco criar interfaces acessíveis e funcionais!
