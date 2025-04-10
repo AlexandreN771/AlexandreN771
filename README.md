@@ -1,5 +1,5 @@
 ## Oi, eu sou o Alexandre!👋
-- Sou desenvolvedor front-end em formação, apaixonado por design gráfico, criatividade e experiências digitais.  
+- Sou engenheiro de UX em formação, apaixonado por design gráfico, criatividade e experiências digitais.  
 - Atualmente aprendendo HTML, CSS, JavaScript e React.  
 - Busco criar interfaces acessíveis e funcionais!
 - 💻 Estudando: JavaScript, React e UX/UI Design  
