@@ -15,6 +15,9 @@
 
 ---
 ![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreN771&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreN771&layout=compact&theme=dracula)
+
 ---
 ### Sobre mim 👍
 - Curto artes visuais, música, design gráfico e leitura
