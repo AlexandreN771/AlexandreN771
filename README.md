@@ -1,5 +1,5 @@
-## Oi, eu sou o Alexandre
-- 📍 De Salvador pra Brasília
+## Oi, eu sou o Alexandre!👋
+- 📍De Salvador pra Brasília
 - Sou desenvolvedor front-end em formação, apaixonado por design gráfico, criatividade e experiências digitais.  
 - Atualmente aprendendo HTML, CSS, JavaScript e React.  
 - Busco criar interfaces acessíveis e funcionais!
@@ -11,11 +11,15 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreN771&show_icons=true&theme=dracula)
 ---
 ### Sobre mim 👍
 - Curto artes visuais, música, design gráfico e leitura
-- Tenho TDAH, então estou sempre buscando formas criativas de me organizar e manter o foco
+- Tenho TDAH, então estou sempre buscando formas criativas de me organizar com meus projetos
 - Acredito que a arte e tecnologia pode tranformar vidas, fazendo do apredizado um ato de descoberta pessoal
 
 ---
