@@ -28,8 +28,7 @@ Me chama pra trocar ideia, colaborar em
 projetos ou só bater um papo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_blacck)
-
-Email: AlexandreN771@gmail.com
+Email: AlexandreN771dev@gmail.com
 
 ---
 > 📌 *"Não abandones tua ânsia de fazer de tua vida algo extraordinário."*
