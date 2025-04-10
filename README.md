@@ -14,7 +14,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreN771&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreN771&layout=compact&theme=dracula)
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreN771&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreN771&layout=compact&theme=dracula)
 
 ---
 ### Sobre mim 👍
