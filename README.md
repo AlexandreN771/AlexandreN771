@@ -1,6 +1,6 @@
 ## Oi, eu sou o Alexandre!👋
 - Sou um desenvolvedor front-end, apaixonado por design gráfico, criatividade e experiências digitais.  
-- Atualmente aprendendo HTML, CSS, JavaScript e React.  
+- Atualmente aprendendo HTML, CSS, JavaScript e React 
 - Busco criar interfaces acessíveis e funcionais!
 - 💻 Estudando: JavaScript, React e UX/UI Design  
 - Próximo passo: Aprender consumo de APIs e TypeScript
