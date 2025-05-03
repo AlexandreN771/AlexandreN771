@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4500&pause=1000&color=2F29DB&random=true&width=435&lines=OI%2C+EU+SOU+O+ALEXANDRE...;E+ESSE+%C3%89+O+MEU+GITHUB+%3A-)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4500&pause=1000&color=2F29DB&random=true&width=435&lines=OI%2C+EU+SOU+O+ALEXANDRE...;E+ESSE+%C3%89+O+MEU+GITHUB+%3A-)" alt="Typing SVG" /></a>
 
 ---
 - Sou um desenvolvedor front-end, apaixonado por design gráfico, criatividade e experiências digitais.  
