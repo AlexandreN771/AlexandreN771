@@ -14,9 +14,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=AlexandreN771&show_icons=true&theme=tokyonight) 0 
-
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=AlexandreN771&layout=compact&theme=tokyonight) 1
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=AlexandreN771&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=AlexandreN771&layout=compact&theme=tokyonight)
 
 ---
 ### Sobre mim 👍
