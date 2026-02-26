@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=4500&pause=1000&color=3FD1DB&width=435&lines=OI%2C+EU+SOU+O+ALEXANDRE...;E+ESSE+%C3%89+O+MEU+GITHUB+%3A-)" alt="Typing SVG" /></a>
 ---
-- Um desenvolvedor front-end, apaixonado por design gráfico, criatividade e experiências digitais.  
+- Um desenvolvedor apaixonado por design gráfico, criatividade e experiências digitais.  
 - Atualmente aprendendo HTML, CSS, JavaScript e React 
 - Busco criar interfaces acessíveis e funcionais!
 - 💻 Estudando: JavaScript, React e UX/UI Design  
