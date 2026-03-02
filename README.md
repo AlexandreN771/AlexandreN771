@@ -20,7 +20,7 @@
 
 ---
 ### Sobre mim 👍
-- Curto artes visuais, música, design gráfico e leitura
+- Curto artes visuais, música, design gráfico e literatura
 - Tenho TDAH, então estou sempre buscando formas criativas de me organizar com meus projetos
 - Acredito que a arte e tecnologia pode tranformar vidas, fazendo do apredizado um ato de descoberta pessoal
 
